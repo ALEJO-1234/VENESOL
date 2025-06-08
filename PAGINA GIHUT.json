@@ -1,0 +1,11 @@
+{
+    "name": "Venesol",
+    "symbol": "VEN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Venesol (VEN) es una stablecoin respaldada por activos reales dise\u00f1ada para combatir la inflaci\u00f3n y restaurar el poder adquisitivo del ciudadano venezolano.",
+    "website": "https://www.venesol.finance",
+    "explorer": "https://polygonscan.com/token/0x978f0De8187BB5dFcD11B470E54f2F8417676693",
+    "status": "active",
+    "id": "0x978f0De8187BB5dFcD11B470E54f2F8417676693"
+}
